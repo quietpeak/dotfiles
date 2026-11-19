@@ -1,0 +1,5 @@
+brew "git"
+brew "gh"
+brew "htop"
+brew "jq"
+brew "tree"
